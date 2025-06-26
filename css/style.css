@@ -1,0 +1,43 @@
+form.d-flex {
+    padding-top: 0px;
+    position: absolute;
+    left: 20%;
+    text-align: center;
+}
+
+.carousel-item img {
+    object-fit: contain;
+    height: 500px;
+    width: 500px;
+}
+
+#carouselImages {
+    background-color: white;
+}
+
+.carousel-inner {
+    height: 500px;
+}
+
+.card-title {
+    position: absolute;
+    top: 20px;
+    right: 5px;
+    left: 5px;
+    color: white;
+    font-weight: bold;
+}
+
+.btn-custom {
+    position: relative;
+    background-color: #eee8dd;
+    font-weight: bold;
+    color: white;
+    right: 5px;
+    left: 5px;
+}
+
+.pesquisar-botao{
+    margin-top: -40px;
+    text-align: right;
+}

@@ -1,0 +1,8 @@
+main.flex-fill {
+    width: 100vw; /* Ocupa toda a largura da tela */
+    max-width: 100%; /* Garante que não ultrapasse */
+    padding: 20px; /* Espaçamento para melhor visualização */
+}
+.container {
+    max-width: 100%; /* Expande a largura dentro do main */
+}
