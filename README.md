@@ -27,8 +27,8 @@ O **Style Shoes** é um site fictício de e-commerce focado na venda de tênis e
 ## 📷 Captura de tela
 
 ```
-📂img/
-  └── screenshot-homepage.png
+📂
+  └── Captura de tela 2025-06-26 090511.png
 ```
 
 ## 🚀 Como executar
@@ -41,22 +41,9 @@ O **Style Shoes** é um site fictício de e-commerce focado na venda de tênis e
 
 > O projeto é estático, não requer servidor para visualização.
 
-## 📁 Estrutura de pastas (sugerida)
-
-```
-📦style-shoes
-├── index.html
-├── css/
-│   └── style.css
-├── js/
-│   └── scriptcarrinho.js
-├── img/
-│   └── style.png
-```
-
 ## 🙋 Autor
 
-Desenvolvido por **Robson Kauã Rodrigues Magalhães**  
+Desenvolvido por **Robson Kauã Rodrigues Magalhães e Daniel de Sousa Maciel**  
 Projeto apresentado como trabalho final da matéria de Web 1 – 2025
 
 ---
