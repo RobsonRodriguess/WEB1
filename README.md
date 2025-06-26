@@ -27,7 +27,7 @@ O **Style Shoes** é um site fictício de e-commerce focado na venda de tênis e
 ## 📷 Captura de tela
 
 ```
-📂
+📂 WEB1/
   └── Captura de tela 2025-06-26 090511.png
 ```
 
