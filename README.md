@@ -26,8 +26,6 @@ O **Style Shoes** é um site fictício de e-commerce focado na venda de tênis e
 
 ## 📷 Captura de tela
 
-> _Você pode adicionar aqui uma imagem do projeto em funcionamento:_
-
 ```
 📂img/
   └── screenshot-homepage.png
@@ -37,7 +35,7 @@ O **Style Shoes** é um site fictício de e-commerce focado na venda de tênis e
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/style-shoes.git
+   git clone https://github.com/RobsonRodriguess/trabalho_web.git
    ```
 2. Abra o arquivo `index.html` em qualquer navegador moderno.
 
